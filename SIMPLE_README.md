@@ -12,6 +12,39 @@ Full-Stack Developer passionate about building amazing web applications and solv
 
 ---
 
+## 🚀 About Me
+
+```python
+class FullStackDeveloper:
+    def __init__(self):
+        self.name = "Rohan Lal"
+        self.role = "Full-Stack Developer & Real-Time System Architect"
+        self.stack = ["JavaScript", "React", "Node.js", "Express", "MongoDB", "WebRTC"]
+        self.passion = ["AI SaaS Integrations", "Real-Time Systems", "Creative UI/UX"]
+
+    def say_hi(self):
+        print("Transforming complex ideas into responsive, intelligent products! 🚀")
+
+me = FullStackDeveloper()
+me.say_hi()
+```
+
+- 🔭 Currently building **AI-driven SaaS Platforms & P2P Real-Time Applications**
+- 🌱 Mastering **TypeScript, GraphQL, & Advanced Cloud Deployments**
+- 👯 Looking to collaborate on **Open Source AI & WebRTC/Socket.io Tooling**
+- 💬 Ask me about **MERN stack, WebRTC, TailwindCSS v4, & Graph Pathfinding**
+- ⚡ Fun fact: **I debug in my sleep, compile ideas in my coffee, and code for performance!** ☕
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohann892&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?" alt="trophy" /></a>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 **Languages:** JavaScript | C | SQL | HTML5 | CSS3
@@ -57,7 +90,7 @@ Full-Stack Developer passionate about building amazing web applications and solv
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohann892/Rohann892/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Rohann892/Rohann892/output/github-contribution-grid-snake.svg?v=1.0.1" alt="Snake animation" />
 </p>
 
 ---

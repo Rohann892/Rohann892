@@ -1,44 +1,62 @@
-# 👋 Hi, I'm Rohan Lal
+<div align="center">
 
-🌟 **Full-Stack Developer** passionate about building amazing web applications and solving real-world problems with code.
+# 💫 Welcome to My GitHub Universe! 💫
 
-<h3 align="center">💻 💡 🚀 | 🎨 ⚡ 📊 | 🔥 💪 🌟</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohan%20Lal&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohann892&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB+%7C+Tech+Enthusiast+%F0%9F%9A%80;Building+Intelligent+Web+Applications+%E2%9A%A1%EF%B8%8F;WebRTC+%26+Real-Time+System+Architect+%F0%9F%92%AC)](https://git.io/typing-svg)
 
-<p align="center">🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Rohann892&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github)](https://github.com/Rohann892)
 
-## 🎨 3D Cube Visualization
-
-<p align="center"><strong>✨✨ Welcome to my Dev Space ✨✨</strong></p>
-
-<p align="center">🔴🟠🟡🟢🔵🟣🟤⚪⚫🔴🟠🟡🟢🔵🟣🟤⚪⚫</p>
-
-```
-    ╔═════════════════╗
-   ╱│  ██████████     │╲
-  ╱ │  ██████████     │ ╲
- ╱  │   Full-Stack    │  ╲
-╚═══╬═════════════════╬═══╝
-    │ ██████████      │
-    │  JavaScript ███ │
-    │  React  ███████ │
-    │  Node  ████████ │
-    │  MongoDB████    │
-    ╚═════════════════╝
-```
-
-<p align="center"><strong>🚀 Building amazing web applications</strong> 🌟</p>
-
-<p align="center">🔴🟠🟡🟢🔵🟣🟤⚪⚫🔴🟠🟡🟢🔵🟣🟤⚪⚫</p>
+</div>
 
 ---
 
-<h3 align="center">🎯 **EXPERTISE AREAS** 🎯</h3>
+## 🚀 About Me
+
+<table align="center">
+  <tr>
+    <td width="55%" style="vertical-align: top;">
+      
+```python
+class FullStackDeveloper:
+    def __init__(self):
+        self.name = "Rohan Lal"
+        self.role = "Full-Stack Developer & Real-Time System Architect"
+        self.stack = ["JavaScript", "React", "Node.js", "Express", "MongoDB", "WebRTC"]
+        self.passion = ["AI SaaS Integrations", "Real-Time Systems", "Creative UI/UX"]
+
+    def say_hi(self):
+        print("Transforming complex ideas into responsive, intelligent products! 🚀")
+
+me = FullStackDeveloper()
+me.say_hi()
+
+```
+
+- 🔭 Currently building **AI-driven SaaS Platforms & P2P Real-Time Applications**
+- 🌱 Mastering **TypeScript, GraphQL, & Advanced Cloud Deployments**
+- 👯 Looking to collaborate on **Open Source AI & WebRTC/Socket.io Tooling**
+- 💬 Ask me about **MERN stack, WebRTC, TailwindCSS v4, & Graph Pathfinding**
+- ⚡ Fun fact: **I debug in my sleep, compile ideas in my coffee, and code for performance!** ☕
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rohann892&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 🛠️ Skills & Expertise
 
@@ -85,8 +103,13 @@
 
 ---
 
-<h3 align="center">🎯 WHAT I BUILD 🎯</h3>
-<p align="center">🚀🎨💻🌟✨🔥💡⚡</p>
+## 🎨 3D Cube Visualization
+
+<p align="center">
+  <img src="cube.svg" alt="3D Cube Visualization" width="400" />
+</p>
+
+---
 
 ## 📌 Featured Projects
 
@@ -95,28 +118,20 @@
 <p align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</p>
 
 ```
+
 ╔════════════════════════════════════════╗
-║       🚀 FEATURED PROJECTS 🚀         ║
+║ 🚀 FEATURED PROJECTS 🚀 ║
 ╠════════════════════════════════════════╣
-║ 🌐 AI Website Builder    ⭐⭐⭐⭐⭐     ║
-║ 📸 Instagram Clone       ⭐⭐⭐⭐⭐     ║
-║ 🚌 BusFinder Router      ⭐⭐⭐⭐⭐     ║
-║ 📞 WebRTC Video Chat     ⭐⭐⭐⭐☆     ║
-║ 📄 AI Resume Builder     ⭐⭐⭐⭐☆     ║
-║ 🎯 Blog Application      ⭐⭐⭐⭐⭐     ║
-║ 🍕 Food App              ⭐⭐⭐⭐☆     ║
-║ 💬 Chat Application      ⭐⭐⭐⭐⭐     ║
-║ 🤖 Discord Bot           ⭐⭐⭐⭐☆     ║
-║ 📈 Retail Sales Analysis ⭐⭐⭐⭐☆     ║
-║ 🎨 Portfolio Website     ⭐⭐⭐⭐⭐     ║
+║ 📸 Instagram Clone ⭐⭐⭐⭐⭐ ║  
+║ 🚌 BusFinder Router ⭐⭐⭐⭐⭐ ║  
+║ 📄 AI Resume Builder ⭐⭐⭐⭐☆ ║
+║ 🍕 Food App ⭐⭐⭐⭐☆ ║
+║ 💬 Chat Application ⭐⭐⭐⭐⭐ ║
 ╚════════════════════════════════════════╝
+
 ```
 
 <p align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</p>
-
-### 🌐 AI Website Builder
-
-Full-stack SaaS platform generating professional SPA websites from prompts - React 19, TailwindCSS v4, Monaco Editor, Firebase auth/hosting, OpenRouter API.
 
 ### 📸 Instagram Clone
 
@@ -126,17 +141,10 @@ Full-featured social network with real-time features - MERN stack, Socket.io mes
 
 Route planning and bus tracking system - BFS graph traversal pathfinding, real-time connecting bus lookup, custom time estimations, Express, MongoDB.
 
-### 📞 WebRTC Video Chat
-
-Real-time peer-to-peer audio/video calling application - WebRTC connection, Socket.io signaling, React lobby and video room interface.
 
 ### 📄 AI Resume Builder
 
 Intelligent resume generator and customizer - Google Gemini AI integration, tailoring resume sections, PDF exports, template management, Express, React.
-
-### 🎯 Blog Application
-
-Full-stack blogging platform with MongoDB & Express - User auth, CRUD operations, responsive design
 
 ### 🍕 Food App
 
@@ -145,18 +153,6 @@ Restaurant ordering system with real-time updates - Menu management, order track
 ### 💬 Chat Application
 
 Real-time messaging with Socket.io & clustering - Multi-user support, message persistence, live presence
-
-### 🤖 Discord Bot
-
-Custom Discord bot with command system - Guild management, moderation utilities, event handling
-
-### 📈 Retail Sales Analysis
-
-SQL data analysis & reporting - Complex queries, business intelligence, data-driven insights
-
-### 🎨 Portfolio Website
-
-React + Vite + TailwindCSS - Interactive components, smooth animations, optimized performance
 
 ---
 
@@ -182,7 +178,7 @@ React + Vite + TailwindCSS - Interactive components, smooth animations, optimize
 <p align="center">🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohann892/Rohann892/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Rohann892/Rohann892/output/github-contribution-grid-snake.svg?v=1.0.1" alt="Snake animation" />
 </p>
 
 <p align="center">🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</p>
@@ -196,15 +192,17 @@ React + Vite + TailwindCSS - Interactive components, smooth animations, optimize
 <p align="center">🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</p>
 
 ```
+
 ╔═══════════════════════════════════╗
-║    🔥 CURRENTLY MASTERING 🔥      ║
+║ 🔥 CURRENTLY MASTERING 🔥 ║
 ╠═══════════════════════════════════╣
-║ 🟦 TypeScript                     ║
-║ 🟩 GraphQL                        ║
-║ 🟪 AWS & Cloud Services           ║
-║ 🟨 Advanced React Patterns        ║
-║ 🟥 System Design & Architecture   ║
+║ 🟦 TypeScript ║
+║ 🟩 GraphQL ║
+║ 🟪 AWS & Cloud Services ║
+║ 🟨 Advanced React Patterns ║
+║ 🟥 System Design & Architecture ║
 ╚═══════════════════════════════════╝
+
 ```
 
 <p align="center">🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</p>
@@ -222,10 +220,12 @@ React + Vite + TailwindCSS - Interactive components, smooth animations, optimize
 <p align="center">🔴🟠🟡🟢🔵🟣🔴🟠🟡🟢🔵🟣</p>
 
 ```
+
 ╔═══════════════════════════════════╗
-║       LET'S BUILD AMAZING         ║
-║       THINGS TOGETHER! 🚀         ║
+║ LET'S BUILD AMAZING ║
+║ THINGS TOGETHER! 🚀 ║
 ╚═══════════════════════════════════╝
+
 ```
 
 <p align="center">
@@ -241,19 +241,22 @@ React + Vite + TailwindCSS - Interactive components, smooth animations, optimize
 ---
 
 ```
+
 ╔═════════════════════════════════════╗
-║                                     ║
-║    🎯 Build | 💻 Code | 🚀 Deploy    ║
-║                                     ║
-║       Made with ❤️ by Rohan Lal      ║
-║                                     ║
-║    ⭐ Stars are Appreciated! ⭐     ║
-║                                     ║
-║    Happy Coding! Keep Creating! 🌟  ║
-║                                     ║
+║ ║
+║ 🎯 Build | 💻 Code | 🚀 Deploy ║
+║ ║
+║ Made with ❤️ by Rohan Lal ║
+║ ║
+║ ⭐ Stars are Appreciated! ⭐ ║
+║ ║
+║ Happy Coding! Keep Creating! 🌟 ║
+║ ║
 ╚═════════════════════════════════════╝
+
 ```
 
 <p align="center"><strong>© 2026 Rohan Lal | Crafted with Passion & Code</strong></p>
 
 <p align="center">🌈✨🚀💻🎨⚡🔥💪🌟🌈✨🚀💻🎨⚡🔥💪🌟</p>
+```
